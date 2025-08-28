@@ -1,0 +1,14 @@
+# Core libraries (use conda for faiss if possible)
+sentence-transformers
+transformers
+huggingface_hub
+torch
+pdfplumber
+symspellpy
+streamlit
+langchain
+faiss-cpu      # optional (use conda install -c conda-forge faiss-cpu on Windows)
+python-dotenv
+pytest
+requests
+pydantic
