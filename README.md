@@ -23,5 +23,5 @@ The system extracts the text from the PDF, indexes it, and uses a **Hugging Face
    python -m scripts.run_e2e_test
 
 ## Launch the Streamlit Web UI
-   To use the interactive web application, run this command from the project root.
+   To use the interactive web application, run this command from the project root. ----  
    python -m streamlit run src/app_streamlit.py
