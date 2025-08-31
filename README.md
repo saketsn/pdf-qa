@@ -18,10 +18,10 @@ The system extracts the text from the PDF, indexes it, and uses a **Hugging Face
 ![alt text](image.png)
 ![alt text](image-1.png)
 
-## Run the End-to-End Test
+# Run the End-to-End Test
 #  This command verifies that your entire pipeline works from end-to-end by building an index and running a test query.
 #  python -m scripts.run_e2e_test
 
-## Launch the Streamlit Web UI
+# Launch the Streamlit Web UI
 #  To use the interactive web application, run this command from the project root.
 #  python -m streamlit run src/app_streamlit.py
