@@ -59,5 +59,5 @@ Just built a PDF Question Answering System using Open-Source LLMs
 
 
 ## Output -
-   ![alt text](<Screenshot 2025-08-31 100940.png>)
-   ![alt text](<Screenshot 2025-08-31 101740.png>)
+   ![alt text](<Screenshot 2025-08-31 112653.png>)
+   ![alt text](<Screenshot 2025-08-31 112718.png>)
