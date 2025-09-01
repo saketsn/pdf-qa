@@ -10,7 +10,7 @@ Just built a PDF Question Answering System using Open-Source LLMs
 
 - Tech Stack:
 
- Python | LangChain | Sentence-Transformers | FAISS | PyPDF2/pdfplumber | HuggingFace API (google/flan-t5-base) + Local Model (google/flan-t5-small) | Anaconda | Git | VS Code
+ Python | Sentence-Transformers | FAISS | PyPDF2/pdfplumber | HuggingFace API (google/flan-t5-base) + Local Model (google/flan-t5-small) | Anaconda | Git | VS Code
 
 - Workflow / Architecture:
 
