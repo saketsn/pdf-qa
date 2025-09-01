@@ -56,3 +56,8 @@ Just built a PDF Question Answering System using Open-Source LLMs
 ## Launch the Streamlit Web UI
    To use the interactive web application, run this command from the project root. ----  
    python -m streamlit run src/app_streamlit.py
+
+
+## Output -
+   ![alt text](<Screenshot 2025-08-31 100940.png>)
+   ![alt text](<Screenshot 2025-08-31 101740.png>)
